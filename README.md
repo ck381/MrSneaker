@@ -1,12 +1,7 @@
 # MrSneaker
-
-<p align="center">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRel4E8Un_wh64A7l13SHl_lYI-pbVNx3wJEw&usqp=CAU" width="350" title="Binance Smart Chain">
-</p>
-
-
 This respository contains some examples of code written for the MrSneaker Django web application.
 
+## Available examples
 * utilities.py - This contains backend code for customer account registration, login and account authentication.
 
 * hyperwallet.py - This interacts with the hyperwallet API to make automated payments to a customers bank or paypal account.
